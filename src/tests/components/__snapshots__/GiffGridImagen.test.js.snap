@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`análisis del componentes GiffGridImage el componente debe renderizarse correctamente 1`] = `
+<div
+  className="card animate__animated animate__fadeInDown"
+>
+  <img
+    alt="imagenes"
+    src="http://localhost/images.jpg"
+  />
+  <p>
+    imagenes
+  </p>
+</div>
+`;

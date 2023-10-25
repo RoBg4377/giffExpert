@@ -36,7 +36,6 @@ export const AddCategory = ({setCategorias}) => {
     );
 };
 AddCategory.propTypes={
-    setCategorias: PropTypes.func.isRequired,
-        
+    setCategorias: PropTypes.func.isRequired,        
     }
 
